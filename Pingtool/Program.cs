@@ -7,6 +7,9 @@ namespace Pingtool
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to the world of tomorrow today?");
+            Console.Read();
+
         }
     }
 }
